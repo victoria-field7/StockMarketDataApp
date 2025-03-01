@@ -9,14 +9,6 @@ using System.Text;                   //Namespace for text processing and encodin
 using System.Threading.Tasks;        //Namespace for asynchronous programming and parallelism
 using System.Windows.Forms;          //Namespace for UI components of Windowns Forms Apps
 
-/*
-Student name: Viktoriia Solomennikova, U99858124
-Class: Software System Development - C# Programming
-Project Description: This project is aimed to design a Windows Forms application that reads stock data from a .csv file,
-processes it, and display it in a Chart and a DataGridView. The user can specify the stock symbol, 
-the starting and ending date of the interest, and a period for each candlestick (Daily, Weekly, or Monthly).
- */
-
 
 //Custom namespace for this project
 namespace Project_Windows_Forms_App
