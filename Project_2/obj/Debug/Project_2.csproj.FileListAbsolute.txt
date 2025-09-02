@@ -1,0 +1,30 @@
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\bin\Debug\Project_2.exe.config
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\bin\Debug\Project_2.exe
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\bin\Debug\Project_2.pdb
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\obj\Debug\Project_2.csproj.AssemblyReference.cache
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\obj\Debug\Project_2.csproj.GenerateResource.cache
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\obj\Debug\Project_2.exe
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\obj\Debug\Project_2.pdb
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\obj\Debug\Project_2.Form1.resources
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\obj\Debug\Project_2.Form_ChartDisplay.resources
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\bin\Debug\Project1exploration4.exe
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\bin\Debug\Project1exploration4.pdb
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\bin\Debug\Project1exploration4.exe.config
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project_2\obj\Debug\Project_2.csproj.Up2Date
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\bin\Debug\Project_2.exe.config
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\bin\Debug\Project_2.exe
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\bin\Debug\Project_2.pdb
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\bin\Debug\Project1exploration4.exe
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\bin\Debug\Project1exploration4.pdb
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\bin\Debug\Project1exploration4.exe.config
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\obj\Debug\Project_2.csproj.AssemblyReference.cache
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\obj\Debug\Project_2.Form1.resources
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\obj\Debug\Project_2.Form_ChartDisplay.resources
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\obj\Debug\Project_2.Properties.Resources.resources
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\obj\Debug\Project_2.csproj.GenerateResource.cache
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\obj\Debug\Project_2.csproj.CoreCompileInputs.cache
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\obj\Debug\Project_2.csproj.Up2Date
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\obj\Debug\Project_2.exe
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project_2\obj\Debug\Project_2.pdb

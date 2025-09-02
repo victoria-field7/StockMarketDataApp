@@ -1,0 +1,20 @@
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project1exploration4\obj\Debug\Project1exploration4.csproj.AssemblyReference.cache
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project1exploration4\obj\Debug\Project_Windows_Forms_App.Form_StockDisplay.resources
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project1exploration4\obj\Debug\Project1exploration4.Properties.Resources.resources
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project1exploration4\obj\Debug\Project1exploration4.csproj.GenerateResource.cache
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project1exploration4\obj\Debug\Project1exploration4.csproj.CoreCompileInputs.cache
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project1exploration4\bin\Debug\Project1exploration4.exe.config
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project1exploration4\bin\Debug\Project1exploration4.exe
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project1exploration4\bin\Debug\Project1exploration4.pdb
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project1exploration4\obj\Debug\Project1exploration4.exe
+C:\Users\solom\OneDrive\Desktop\Project 2\Project1exploration_submitted\Project1exploration4\Project1exploration4\obj\Debug\Project1exploration4.pdb
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project1exploration4\bin\Debug\Project1exploration4.exe.config
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project1exploration4\bin\Debug\Project1exploration4.exe
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project1exploration4\bin\Debug\Project1exploration4.pdb
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project1exploration4\obj\Debug\Project1exploration4.csproj.AssemblyReference.cache
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project1exploration4\obj\Debug\Project_Windows_Forms_App.Form_StockDisplay.resources
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project1exploration4\obj\Debug\Project1exploration4.Properties.Resources.resources
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project1exploration4\obj\Debug\Project1exploration4.csproj.GenerateResource.cache
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project1exploration4\obj\Debug\Project1exploration4.csproj.CoreCompileInputs.cache
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project1exploration4\obj\Debug\Project1exploration4.exe
+C:\Users\solom\Downloads\Project2_Solomennikova_WorkingTest1\Project1exploration4 - Copy (3)\Project1exploration4\obj\Debug\Project1exploration4.pdb
